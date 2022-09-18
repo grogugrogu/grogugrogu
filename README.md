@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grogugrogu
-- 👀 I’m interested in javascript, react native, node.js and databases.
+- 👀 I’m interested in javascript, react,typescript, node.js and databases.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on mobile apps or websites
 - 📫 How to reach me ...
